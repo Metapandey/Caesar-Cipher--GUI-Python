@@ -1,6 +1,6 @@
 # Caesar-Cipher--GUI-Python
 Encrypt and Decrypt text
-
+## Only Works with Alphabets, no numbers or special charaters are allowed
 
 **In cryptography, a Caesar-Cipher, also known as Caesar's cipher, the shift cipher, Caesar's code or Caesar shift, is one of the simplest and most widely known encryption techniques. It is a type of substitution cipher in which each letter in the plaintext is replaced by a letter some fixed number of positions down the alphabet. For example, with a left shift of 3, D would be replaced by A, E would become B, and so on. The method is named after Julius Caesar, who used it in 
 his private correspondence.
@@ -39,4 +39,7 @@ chr(num)
 num : integer value
 
 # About the GUI
+## Tkinter Python
+The tkinter package (“Tk interface”) is the standard Python interface to the Tk GUI toolkit. Both Tk and tkinter are available on most Unix platforms, as well as on Windows systems. (Tk itself is not part of Python; it is maintained at ActiveState.)
+Tkinter is the standard GUI library for Python. Python when combined with Tkinter provides a fast and easy way to create GUI applications. Tkinter provides a powerful object-oriented interface to the Tk GUI toolkit.
 
