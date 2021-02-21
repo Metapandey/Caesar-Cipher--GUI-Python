@@ -1,5 +1,5 @@
 # Caesar-Cipher--GUI-Python
-## Only Works with Alphabets, no numbers or special charaters are allowed
+## Only Works with Alphabets, No Numbers or Special Charaters are Allowed
 ### Encrypt and Decrypt text
 
 
