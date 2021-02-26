@@ -6,7 +6,7 @@ from tkinter import messagebox
 
 root = tk.Tk()
 
-pic = PhotoImage(file = "C:\\Users\\zerod\\Documents\\Python Projects\\cesarcipher\\new.png")
+pic = PhotoImage(file = "./src/new.png")
 root.iconphoto(False,pic)
 root.title("Text Encryptor-Decryptor")
 #dimensions of the window
@@ -14,7 +14,7 @@ root.geometry("450x450") # width x height
 #resizing of the window.
 root.resizable(width=FALSE, height=FALSE)
 canvas = tk.Canvas(root,height = 450, width=450, bg="#0066ff")
-filename = PhotoImage(file = "C:\\Users\\zerod\\Documents\\Python Projects\\cesarcipher\\newonee.png")
+filename = PhotoImage(file = "./src/newonee.png")
 background_label = Label(root, image=filename)
 background_label.place(x=-1, y=0, relwidth=1, relheight=1)
 canvas.pack()
