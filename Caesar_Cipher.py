@@ -5,7 +5,6 @@ from tkinter.ttk import *
 from tkinter import messagebox
 
 root = tk.Tk()
-
 pic = PhotoImage(file = "./src/new.png")
 root.iconphoto(False,pic)
 root.title("Text Encryptor-Decryptor")
